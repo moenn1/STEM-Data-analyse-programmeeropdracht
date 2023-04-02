@@ -1,0 +1,85 @@
+geslacht
+1
+leeftijd
+21
+Ervaart u angst ? 
+nee
+*----*----*----*----*----*----*----*----*
+geslacht
+2
+leeftijd
+24
+Ervaart u angst ? 
+ja
+Welk domein wilt u testen? 1 voor fobie 2 voor sociale angst 3 voor paniekklachten 
+Fobie Antwoord 1A nee
+Fobie Antwoord 2A nee
+Fobie Antwoord 3A ja
+Fobie Antwoord 4A nee
+Fobie Antwoord 5A ja
+Fobie Antwoord 6A nee
+*----*----*----*----*----*----*----*----*
+geslacht
+1
+leeftijd
+28
+Ervaart u angst ? 
+ja
+Welk domein wilt u testen? 1 voor fobie 2 voor sociale angst 3 voor paniekklachten 
+Sociale angst Antwoord 1B ja
+Sociale angst Antwoord 2B nee
+Sociale angst Antwoord 3B ja
+Sociale angst Antwoord 4B nee
+Sociale angst Antwoord 5B ja
+Sociale angst Antwoord 6B nee
+geslacht
+2
+leeftijd
+29
+Ervaart u angst ? 
+ja
+Welk domein wilt u testen? 1 voor fobie 2 voor sociale angst 3 voor paniekklachten 
+Paniekklachten 1C ja
+Paniekklachten 2C ja
+Paniekklachten 3C ja
+Paniekklachten 4C nee
+Paniekklachten 5C ja
+*----*----*----*----*----*----*----*----*
+geslacht
+1
+leeftijd
+19
+Ervaart u angst ? 
+ja
+Welk domein wilt u testen? 1 voor fobie 2 voor sociale angst 3 voor paniekklachten 
+Fobie Antwoord 1A ja
+Fobie Antwoord 2A ja
+Fobie Antwoord 3A ja
+Fobie Antwoord 4A ja
+Fobie Antwoord 5A ja
+Fobie Antwoord 6A ja
+Paniekklachten 1C ja
+Paniekklachten 2C nee
+Paniekklachten 3C ja
+Paniekklachten 4C nee
+Paniekklachten 5C nee
+*----*----*----*----*----*----*----*----*
+geslacht
+1
+leeftijd
+18
+Ervaart u angst ? 
+ja
+Welk domein wilt u testen? 1 voor fobie 2 voor sociale angst 3 voor paniekklachten 
+Fobie Antwoord 1A ja
+Fobie Antwoord 2A nee
+Fobie Antwoord 3A nee
+Fobie Antwoord 4A ja
+Fobie Antwoord 5A nee
+Fobie Antwoord 6A ja
+Paniekklachten 1C ja
+Paniekklachten 2C ja
+Paniekklachten 3C ja
+Paniekklachten 4C nee
+Paniekklachten 5C ja
+*----*----*----*----*----*----*----*----*

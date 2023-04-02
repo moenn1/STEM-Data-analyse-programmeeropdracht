@@ -1,0 +1,4 @@
+['vrouw', '28', 'onbekend', 'nee', 'ja']
+['man', '34', 'ja', 'onbekend', 'ja']
+['anders', '22', 'ja', 'nee', 'ja']
+['vrouw', '29', 'ja', 'nee', 'ja']
